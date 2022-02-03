@@ -1,0 +1,14 @@
+*.class
+*.log
+build
+parser/autogen
+parser/classes
+parser/dist
+
+!.idea/
+.idea/*
+!.idea/runConfigurations/
+
+out/
+phase1-adadima.iml
+/tests/
